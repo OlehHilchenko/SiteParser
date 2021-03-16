@@ -8,7 +8,7 @@ import org.jsoup.nodes.Element;
 import java.util.ArrayList;
 import java.util.List;
 
-public class appStarter {
+public class AppStarter {
 
     private static final String TELEFONY_I_AKCESORIA_CATEGORY = "https://allegro.pl/kategoria/telefony-i-akcesoria?bmatch=cl-e2101-d3681-c3682-ele-1-1-0304";
     private static final String LABTOP_491_CATEGORY = "https://allegro.pl/kategoria/laptopy-491?bmatch=cl-e2101-d3681-c3682-ele-1-1-0304";
